@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Home
+description: My homepage
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://csabatini.github.io/homepage
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/csabatini/homepage
