@@ -14,7 +14,7 @@ layout: home
 <br>
 [MSOLID](https://dexscreener.com/ethereum/0xf5e4b5f58703582ad142b15e6c303dbb3cf7de8a){: .btn .btn-purple }
 <br>
-[FBOMB](https://dexscreener.com/fantom/0xb02a933c8fa52cdfdc86b46c7180ef025f9dfef4){: .btn .btn-purple }
+[FBOMB](https://dexscreener.com/arbitrum/0xf8ba0b028e8308dbcb046019326fbaa9ec4110d8){: .btn .btn-purple }
 <br>
 [ICOM](https://m.investing.com/indices/indices-futures){: .btn .btn-purple }
 </span>
