@@ -12,7 +12,7 @@ layout: home
 <br>
 [SOLID](https://dexscreener.com/ethereum/0x642431623ae5d73c19fc931aaea0d4677303880c){: .btn .btn-purple }
 <br>
-[MSOLID](https://dexscreener.com/ethereum/0xf5e4b5f58703582ad142b15e6c303dbb3cf7de8a){: .btn .btn-purple }
+[STR](https://dexscreener.com/arbitrum/0xb30d2814fada91c97c2ffbb27c9187a099617e3f){: .btn .btn-purple }
 <br>
 [FBOMB](https://dexscreener.com/arbitrum/0xf8ba0b028e8308dbcb046019326fbaa9ec4110d8){: .btn .btn-purple }
 <br>
