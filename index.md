@@ -16,5 +16,7 @@ layout: home
 <br>
 [FBOMB](https://dexscreener.com/arbitrum/0xf8ba0b028e8308dbcb046019326fbaa9ec4110d8){: .btn .btn-purple }
 <br>
+[FARM](https://fintwit.slickmobile.us/data/ramses.txt){: .btn .btn-purple }
+<br>
 [ICOM](https://m.investing.com/indices/indices-futures){: .btn .btn-purple }
 </span>
