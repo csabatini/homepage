@@ -10,9 +10,9 @@ layout: home
 <br>
 [DEUS](https://dexscreener.com/fantom/0xaf918ef5b9f33231764a5557881e6d3e5277d456){: .btn .btn-purple }
 <br>
-[SOLID](https://dexscreener.com/ethereum/0x642431623ae5d73c19fc931aaea0d4677303880c){: .btn .btn-purple }
-<br>
 [RAM](https://dexscreener.com/arbitrum/0x1e50482e9185d9dac418768d14b2f2ac2b4daf39){: .btn .btn-purple }
+<br>
+[NEAD](https://dexscreener.com/arbitrum/0x1542d005d7b73c53a75d4cd98a1a6bf3dc27842b){: .btn .btn-purple }
 <br>
 [FBOMB](https://dexscreener.com/arbitrum/0xf8ba0b028e8308dbcb046019326fbaa9ec4110d8){: .btn .btn-purple }
 <br>
