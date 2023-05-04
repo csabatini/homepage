@@ -14,7 +14,7 @@ layout: home
 <br>
 [NEAD](https://dexscreener.com/arbitrum/0x1542d005d7b73c53a75d4cd98a1a6bf3dc27842b){: .btn .btn-purple }
 <br>
-[FBOMB](https://dexscreener.com/arbitrum/0xf8ba0b028e8308dbcb046019326fbaa9ec4110d8){: .btn .btn-purple }
+[ELCHR](https://dexscreener.com/arbitrum/0x176791a1afc80d201d4d0a5a9a66bbe726f83ee3){: .btn .btn-purple }
 <br>
 [FARM](https://fintwit.slickmobile.us/data/ramses.txt){: .btn .btn-purple }
 <br>
