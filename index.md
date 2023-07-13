@@ -10,9 +10,9 @@ layout: home
 <br>
 [DEUS](https://dexscreener.com/fantom/0xaf918ef5b9f33231764a5557881e6d3e5277d456){: .btn .btn-purple }
 <br>
-[RAM](https://dexscreener.com/arbitrum/0x688547381eec7c1d3d9eba778fe275d1d7e03946){: .btn .btn-purple }
+[RAM](https://dexscreener.com/arbitrum/0x4b4421166ef72ab878c879a37eb9be0d54b863cf){: .btn .btn-purple }
 <br>
-[NEAD](https://dexscreener.com/arbitrum/0xec5633e291bd634b1ddde3acde76edbe0db9bede){: .btn .btn-purple }
+[NEAD](https://dexscreener.com/arbitrum/0x307fecfc2f14082f9abe641cd09737b77856b640){: .btn .btn-purple }
 <br>
 [FARM](https://fintwit.slickmobile.us/data/ramses.txt){: .btn .btn-purple }
 <br>
