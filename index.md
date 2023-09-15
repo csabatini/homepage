@@ -8,9 +8,9 @@ layout: home
 <br>
 [AVPT](https://www.nasdaq.com/market-activity/stocks/avpt/real-time){: .btn .btn-purple }
 <br>
-[DEUS](https://dexscreener.com/fantom/0xaf918ef5b9f33231764a5557881e6d3e5277d456){: .btn .btn-purple }
+[SOLID](https://dexscreener.com/ethereum/0x51adfd3244c0c18d064842f99c0be3ac952725c0){: .btn .btn-purple }
 <br>
-[RAM](https://dexscreener.com/arbitrum/0x4b4421166ef72ab878c879a37eb9be0d54b863cf){: .btn .btn-purple }
+[RAM](https://dexscreener.com/arbitrum/0x688547381eec7c1d3d9eba778fe275d1d7e03946){: .btn .btn-purple }
 <br>
 [NEAD](https://dexscreener.com/arbitrum/0x307fecfc2f14082f9abe641cd09737b77856b640){: .btn .btn-purple }
 <br>
