@@ -8,7 +8,7 @@ layout: home
 <br>
 [AVPT](https://www.nasdaq.com/market-activity/stocks/avpt/real-time){: .btn .btn-purple }
 <br>
-[SOLID](https://dexscreener.com/ethereum/0x51adfd3244c0c18d064842f99c0be3ac952725c0){: .btn .btn-purple }
+[LODE](https://dexscreener.com/arbitrum/0x49bb23dfae944059c2403bcc255c5a9c0f851a8d){: .btn .btn-purple }
 <br>
 [RAM](https://dexscreener.com/arbitrum/0x688547381eec7c1d3d9eba778fe275d1d7e03946){: .btn .btn-purple }
 <br>
