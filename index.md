@@ -12,7 +12,7 @@ layout: home
 <br>
 [ARB](https://dexscreener.com/arbitrum/0xc6f780497a95e246eb9449f5e4770916dcd6396a){: .btn .btn-purple }
 <br>
-[PAPYRUS](https://dexscreener.com/scroll/0x9508ea41e47672f0a737cfcc286d79ee85f8d0bc){: .btn .btn-purple }
+[NEAD](https://dexscreener.com/arbitrum/0x307fecfc2f14082f9abe641cd09737b77856b640){: .btn .btn-purple }
 <br>
 [FARM](https://fintwit.slickmobile.us/data/ramses.txt){: .btn .btn-purple }
 <br>
