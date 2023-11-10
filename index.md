@@ -10,7 +10,7 @@ layout: home
 <br>
 [RAM](https://dexscreener.com/arbitrum/0x688547381eec7c1d3d9eba778fe275d1d7e03946){: .btn .btn-purple }
 <br>
-[ARB](https://dexscreener.com/arbitrum/0xc6f780497a95e246eb9449f5e4770916dcd6396a){: .btn .btn-purple }
+[USDT](https://dexscreener.com/arbitrum/0xa7d9174712bf15563df4eec13cf4fb57c91ed31d){: .btn .btn-purple }
 <br>
 [NEAD](https://dexscreener.com/arbitrum/0x307fecfc2f14082f9abe641cd09737b77856b640){: .btn .btn-purple }
 <br>
