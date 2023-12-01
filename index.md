@@ -12,7 +12,7 @@ layout: home
 <br>
 [IT](https://dexscreener.com/arbitrum/0xf228bb44b95f32294a4f84d7eca75d4103e9ff33){: .btn .btn-purple }
 <br>
-[NFT1](https://beta.ramses.exchange/liquidity/v2/14574){: .btn .btn-purple }
+[NFT1](https://beta.ramses.exchange/liquidity/v2/14769){: .btn .btn-purple }
 <br>
 [NFT2](https://beta.ramses.exchange/liquidity/v2/14629){: .btn .btn-purple }
 <br>
