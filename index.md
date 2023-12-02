@@ -14,7 +14,7 @@ layout: home
 <br>
 [NFT1](https://beta.ramses.exchange/liquidity/v2/14829){: .btn .btn-purple }
 <br>
-[NFT2](https://beta.ramses.exchange/liquidity/v2/14822){: .btn .btn-purple }
+[NFT2](https://beta.ramses.exchange/liquidity/v2/14904){: .btn .btn-purple }
 <br>
 [NFT3](https://beta.ramses.exchange/liquidity/v2/14826){: .btn .btn-purple }
 <br>
