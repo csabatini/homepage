@@ -10,7 +10,7 @@ layout: home
 <br>
 [NEAD](https://dexscreener.com/arbitrum/0x307fecfc2f14082f9abe641cd09737b77856b640){: .btn .btn-purple }
 <br>
-[IT](https://dexscreener.com/arbitrum/0xf228bb44b95f32294a4f84d7eca75d4103e9ff33){: .btn .btn-purple }
+[ALCX](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
 <br>
 [NFT1](https://beta.ramses.exchange/liquidity/v2/14829){: .btn .btn-purple }
 <br>
