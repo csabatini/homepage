@@ -16,7 +16,7 @@ layout: home
 <br>
 [NFT1](https://beta.ramses.exchange/liquidity/v2/16008){: .btn .btn-purple }
 <br>
-[NFT2](https://beta.ramses.exchange/liquidity/v2/16035){: .btn .btn-purple }
+[NFT2](https://beta.ramses.exchange/liquidity/v2/16091){: .btn .btn-purple }
 <br>
 [DBANK](https://debank.com/profile/0xd2d7d301cbad5eda81952cb54c2ab626625f8ccd){: .btn .btn-purple }
 <br>
