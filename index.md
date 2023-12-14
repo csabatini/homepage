@@ -14,9 +14,9 @@ layout: home
 <br>
 [ALCX](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
 <br>
-[NFT1](https://beta.ramses.exchange/liquidity/v2/16008){: .btn .btn-purple }
+[NFT1](https://beta.ramses.exchange/liquidity/v2/16091){: .btn .btn-purple }
 <br>
-[NFT2](https://beta.ramses.exchange/liquidity/v2/16091){: .btn .btn-purple }
+[NFT2](https://beta.ramses.exchange/liquidity/v2/16108){: .btn .btn-purple }
 <br>
 [DBANK](https://debank.com/profile/0xd2d7d301cbad5eda81952cb54c2ab626625f8ccd){: .btn .btn-purple }
 <br>
