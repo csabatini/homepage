@@ -8,8 +8,6 @@ layout: home
 <br>
 [PHAR](https://dexscreener.com/avalanche/0xc1f141909cea52f5315c19c1121cef1dc86f4926){: .btn .btn-purple }
 <br>
-[RAM](https://dexscreener.com/arbitrum/0x688547381eec7c1d3d9eba778fe275d1d7e03946){: .btn .btn-purple }
-<br>
 [NEAD](https://dexscreener.com/arbitrum/0x307fecfc2f14082f9abe641cd09737b77856b640){: .btn .btn-purple }
 <br>
 [ALCX](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
@@ -17,6 +15,8 @@ layout: home
 [NFT1](https://beta.ramses.exchange/liquidity/v2/16307){: .btn .btn-purple }
 <br>
 [NFT2](https://beta.ramses.exchange/liquidity/v2/16108){: .btn .btn-purple }
+<br>
+[NFT3](https://pharaoh.exchange/liquidity/v2/336){: .btn .btn-purple }
 <br>
 [DBANK](https://debank.com/profile/0xd2d7d301cbad5eda81952cb54c2ab626625f8ccd){: .btn .btn-purple }
 <br>
