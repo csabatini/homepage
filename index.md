@@ -6,7 +6,7 @@ layout: home
 <span class="fs-8">
 [MVST](https://www.nasdaq.com/market-activity/stocks/mvst/real-time){: .btn .btn-purple }
 <br>
-[PHAR](https://dexscreener.com/avalanche/0xc1f141909cea52f5315c19c1121cef1dc86f4926){: .btn .btn-purple }
+[KIMBO](https://dexscreener.com/avalanche/0x03a5888726667fff1e753fc06b51dd1245e7371a){: .btn .btn-purple }
 <br>
 [NEAD](https://dexscreener.com/arbitrum/0x307fecfc2f14082f9abe641cd09737b77856b640){: .btn .btn-purple }
 <br>
@@ -15,8 +15,6 @@ layout: home
 [NFT1](https://beta.ramses.exchange/liquidity/v2/16307){: .btn .btn-purple }
 <br>
 [NFT2](https://beta.ramses.exchange/liquidity/v2/16108){: .btn .btn-purple }
-<br>
-[NFT3](https://pharaoh.exchange/liquidity/v2/336){: .btn .btn-purple }
 <br>
 [DBANK](https://debank.com/profile/0xd2d7d301cbad5eda81952cb54c2ab626625f8ccd){: .btn .btn-purple }
 <br>
