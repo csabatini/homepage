@@ -12,11 +12,11 @@ layout: home
 <br>
 [ALCX](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
 <br>
-[NFT1](https://beta.ramses.exchange/liquidity/v2/19472){: .btn .btn-purple }
+[POS1](https://beta.ramses.exchange/liquidity/v2/19628){: .btn .btn-purple }
 <br>
-[NFT2](https://beta.ramses.exchange/liquidity/v2/19418){: .btn .btn-purple }
+[POS2](https://beta.ramses.exchange/liquidity/v2/19632){: .btn .btn-purple }
 <br>
-[NFT3](https://pharaoh.exchange/liquidity/1760){: .btn .btn-purple }
+[POS3](https://pharaoh.exchange/liquidity/1760){: .btn .btn-purple }
 <br>
 [DBANK](https://debank.com/profile/0xd2d7d301cbad5eda81952cb54c2ab626625f8ccd){: .btn .btn-purple }
 <br>
