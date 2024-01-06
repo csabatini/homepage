@@ -14,7 +14,7 @@ layout: home
 <br>
 [POS1](https://beta.ramses.exchange/liquidity/v2/19628){: .btn .btn-purple }
 <br>
-[POS2](https://beta.ramses.exchange/liquidity/v2/19632){: .btn .btn-purple }
+[POS2](https://beta.ramses.exchange/liquidity/v2/19751){: .btn .btn-purple }
 <br>
 [POS3](https://pharaoh.exchange/liquidity/1962){: .btn .btn-purple }
 <br>
