@@ -6,7 +6,7 @@ layout: home
 <span class="fs-8">
 [MVST](https://www.nasdaq.com/market-activity/stocks/mvst/real-time){: .btn .btn-purple }
 <br>
-[MNT](https://dexscreener.com/mantle/0xcd07bcf06f3ad0eac869bdec3e9065864a348875){: .btn .btn-purple }
+[MNT](https://dexscreener.com/mantle/0x99c5527d168bcd9f820652e90bff3a1f059d34ce){: .btn .btn-purple }
 <br>
 [NEAD](https://dexscreener.com/arbitrum/0x307fecfc2f14082f9abe641cd09737b77856b640){: .btn .btn-purple }
 <br>
@@ -16,7 +16,7 @@ layout: home
 <br>
 [POS2](https://beta.ramses.exchange/liquidity/v2/21619){: .btn .btn-purple }
 <br>
-[POS3](https://cleo.exchange/liquidity/v2/1721){: .btn .btn-purple }
+[POS3](https://cleo.exchange/liquidity/v2/1750){: .btn .btn-purple }
 <br>
 [DBANK](https://debank.com/profile/0xd2d7d301cbad5eda81952cb54c2ab626625f8ccd){: .btn .btn-purple }
 <br>
