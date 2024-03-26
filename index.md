@@ -12,7 +12,7 @@ layout: home
 <br>
 [ALCX2](https://dexscreener.com/arbitrum/0x4ec7d79277c478975dc76274bb0157e7088612c2){: .btn .btn-purple }
 <br>
-[POS1](https://beta.ramses.exchange/liquidity/v2/30602){: .btn .btn-purple }
+[TAROT](https://dexscreener.com/base/0x2d25e0514f23c6367687de89bd5167dc754d4934){: .btn .btn-purple }
 <br>
 [DBANK1](https://debank.com/profile/0xd2d7d301cbad5eda81952cb54c2ab626625f8ccd){: .btn .btn-purple }
 <br>
