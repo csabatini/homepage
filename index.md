@@ -12,7 +12,7 @@ layout: home
 <br>
 [ALCX2](https://dexscreener.com/arbitrum/0x4ec7d79277c478975dc76274bb0157e7088612c2){: .btn .btn-purple }
 <br>
-[ALETH1](https://app.ramses.exchange/liquidity/v2/108055){: .btn .btn-purple }
+[ALETH1](https://app.ramses.exchange/liquidity/v2/109607){: .btn .btn-purple }
 <br>
 [ALETH2](https://dexscreener.com/arbitrum/0xb69d60d0690733c0cc4db1c1aedeeaa308f30328){: .btn .btn-purple }
 <br>
