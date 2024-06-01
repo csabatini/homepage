@@ -6,7 +6,7 @@ layout: home
 <span class="fs-8">
 [MVST](https://www.nasdaq.com/market-activity/stocks/mvst/real-time){: .btn .btn-purple }
 <br>
-[RAM](https://dexscreener.com/arbitrum/0x1e50482e9185d9dac418768d14b2f2ac2b4daf39){: .btn .btn-purple }
+[RAM](https://dexscreener.com/arbitrum/0x4eec5b230e2f2f83dbac174b0bd6d406d13710b4){: .btn .btn-purple }
 <br>
 [ALCX1](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
 <br>
