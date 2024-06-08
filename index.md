@@ -14,7 +14,9 @@ layout: home
 <br>
 [ALCX3](https://dexscreener.com/arbitrum/0xd9c94a4e4f63179e15b07d0363753ca41cb31b1a){: .btn .btn-purple }
 <br>
-[ALETH2](https://dexscreener.com/arbitrum/0xb69d60d0690733c0cc4db1c1aedeeaa308f30328){: .btn .btn-purple }
+[ALETH1](https://dexscreener.com/arbitrum/0xb69d60d0690733c0cc4db1c1aedeeaa308f30328){: .btn .btn-purple }
+<br>
+[ALETH2](https://app.ramses.exchange/liquidity/v2/125233){: .btn .btn-purple }
 <br>
 [DBANK1](https://debank.com/profile/0xd2d7d301cbad5eda81952cb54c2ab626625f8ccd){: .btn .btn-purple }
 <br>
