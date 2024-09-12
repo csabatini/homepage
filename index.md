@@ -14,7 +14,7 @@ layout: home
 <br>
 [ALCX2](https://dexscreener.com/arbitrum/0xd9c94a4e4f63179e15b07d0363753ca41cb31b1a){: .btn .btn-purple }
 <br>
-[ALETH](https://dexscreener.com/arbitrum/0xb69d60d0690733c0cc4db1c1aedeeaa308f30328){: .btn .btn-purple }
+[ALCX3](https://dexscreener.com/optimism/0x4b322314d6f7239f094f40d93e7d9c4a3081c625){: .btn .btn-purple }
 <br>
 [POS1](https://app.uniswap.org/pools/39978){: .btn .btn-purple }
 <br>
