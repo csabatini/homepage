@@ -10,9 +10,9 @@ layout: home
 <br>
 [ZRO](https://dexscreener.com/arbitrum/0x4cef551255ec96d89fec975446301b5c4e164c59){: .btn .btn-purple }
 <br>
-[ALCX1](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
+[ALETH](https://dexscreener.com/arbitrum/0xfb4fe921f724f3c7b610a826c827f9f6ecef6886){: .btn .btn-purple }
 <br>
-[ALCX2](https://dexscreener.com/arbitrum/0xd9c94a4e4f63179e15b07d0363753ca41cb31b1a){: .btn .btn-purple }
+[ALCX1](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
 <br>
 [ALCX3](https://dexscreener.com/optimism/0x4b322314d6f7239f094f40d93e7d9c4a3081c625){: .btn .btn-purple }
 <br>
