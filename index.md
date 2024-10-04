@@ -14,9 +14,9 @@ layout: home
 <br>
 [ALCX1](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
 <br>
-[ALCX3](https://dexscreener.com/optimism/0x4b322314d6f7239f094f40d93e7d9c4a3081c625){: .btn .btn-purple }
+[ALCX2](https://dexscreener.com/arbitrum/0xd9c94a4e4f63179e15b07d0363753ca41cb31b1a){: .btn .btn-purple }
 <br>
-[POS1](https://app.uniswap.org/pools/39978){: .btn .btn-purple }
+[ALCX3](https://dexscreener.com/optimism/0x4b322314d6f7239f094f40d93e7d9c4a3081c625){: .btn .btn-purple }
 <br>
 [DBANK1](https://debank.com/profile/0xf9867278E13c908c08E2dF54966540229FA5FfD8){: .btn .btn-purple }
 <br>
