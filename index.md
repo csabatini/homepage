@@ -4,8 +4,6 @@ layout: home
 ---
 
 <span class="fs-8">
-[MVST](https://www.nasdaq.com/market-activity/stocks/mvst/real-time){: .btn .btn-purple }
-<br>
 [RAM](https://dexscreener.com/arbitrum/0x4eec5b230e2f2f83dbac174b0bd6d406d13710b4){: .btn .btn-purple }
 <br>
 [ZRO](https://dexscreener.com/arbitrum/0x4cef551255ec96d89fec975446301b5c4e164c59){: .btn .btn-purple }
@@ -17,6 +15,8 @@ layout: home
 [ALCX2](https://dexscreener.com/arbitrum/0xd9c94a4e4f63179e15b07d0363753ca41cb31b1a){: .btn .btn-purple }
 <br>
 [ALCX3](https://dexscreener.com/optimism/0x4b322314d6f7239f094f40d93e7d9c4a3081c625){: .btn .btn-purple }
+<br>
+[ALCX4](https://dexscreener.com/metis/0xbc40867547e03c854545df7cdf1501bd8f533f12){: .btn .btn-purple }
 <br>
 [DBANK1](https://debank.com/profile/0xf9867278E13c908c08E2dF54966540229FA5FfD8){: .btn .btn-purple }
 <br>
