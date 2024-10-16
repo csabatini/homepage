@@ -18,6 +18,8 @@ layout: home
 <br>
 [ALCX4](https://dexscreener.com/metis/0xbc40867547e03c854545df7cdf1501bd8f533f12){: .btn .btn-purple }
 <br>
+[ALCX5](https://dexscreener.com/linea/0xac73c5f3d110bb051100cfd8afa4ac4339f239e7){: .btn .btn-purple }
+<br>
 [DBANK1](https://debank.com/profile/0xf9867278E13c908c08E2dF54966540229FA5FfD8){: .btn .btn-purple }
 <br>
 [DBANK2](https://debank.com/profile/0x8aa5c1df5d05fd558aae387666bfcd8809f0344f){: .btn .btn-purple }
