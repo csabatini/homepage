@@ -14,9 +14,9 @@ layout: home
 <br>
 [ALCX2](https://dexscreener.com/arbitrum/0xd9c94a4e4f63179e15b07d0363753ca41cb31b1a){: .btn .btn-purple }
 <br>
-[ALCX3](https://dexscreener.com/optimism/0x4b322314d6f7239f094f40d93e7d9c4a3081c625){: .btn .btn-purple }
+[ALCX3](https://dexscreener.com/arbitrum/0x9c99764ad164360cf85eda42fa2f4166b6cba2a4){: .btn .btn-purple }
 <br>
-[ALCX4](https://dexscreener.com/metis/0xbc40867547e03c854545df7cdf1501bd8f533f12){: .btn .btn-purple }
+[ALCX4](https://dexscreener.com/optimism/0x4b322314d6f7239f094f40d93e7d9c4a3081c625){: .btn .btn-purple }
 <br>
 [ALCX5](https://dexscreener.com/linea/0xac73c5f3d110bb051100cfd8afa4ac4339f239e7){: .btn .btn-purple }
 <br>
