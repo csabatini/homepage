@@ -8,7 +8,7 @@ layout: home
 <br>
 [RAM](https://dexscreener.com/arbitrum/0x4eec5b230e2f2f83dbac174b0bd6d406d13710b4){: .btn .btn-purple }
 <br>
-[ZRO](https://dexscreener.com/arbitrum/0x4cef551255ec96d89fec975446301b5c4e164c59){: .btn .btn-purple }
+[STOMB](https://dexscreener.com/solana/arax1e8afczzj8uh84uxictvkzvjpxusokuvcjklahbq){: .btn .btn-purple }
 <br>
 [ALCX1](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
 <br>
