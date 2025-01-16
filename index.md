@@ -6,13 +6,11 @@ layout: home
 <span class="fs-8">
 [RAM](https://dexscreener.com/arbitrum/0x4eec5b230e2f2f83dbac174b0bd6d406d13710b4){: .btn .btn-purple }
 <br>
-[STOMB](https://dexscreener.com/solana/arax1e8afczzj8uh84uxictvkzvjpxusokuvcjklahbq){: .btn .btn-purple }
-<br>
 [ALETH](https://dexscreener.com/arbitrum/0xfb4fe921f724f3c7b610a826c827f9f6ecef6886){: .btn .btn-purple }
 <br>
 [ALCX1](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
 <br>
-[ALCX2](https://dexscreener.com/arbitrum/0xd9c94a4e4f63179e15b07d0363753ca41cb31b1a){: .btn .btn-purple }
+[ALCX2](https://dexscreener.com/arbitrum/0xf19a4d7e1c4686f088439091966423a481a7a9b2){: .btn .btn-purple }
 <br>
 [ALCX3](https://dexscreener.com/arbitrum/0x9c99764ad164360cf85eda42fa2f4166b6cba2a4){: .btn .btn-purple }
 <br>
