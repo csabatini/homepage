@@ -10,7 +10,7 @@ layout: home
 <br>
 [ALCX1](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
 <br>
-[ALCX2](https://dexscreener.com/arbitrum/0xf19a4d7e1c4686f088439091966423a481a7a9b2){: .btn .btn-purple }
+[ALCX2](https://dexscreener.com/linea/0x488db8a08a0cccec9200878ba274f1c5ad118ac5){: .btn .btn-purple }
 <br>
 [ALCX3](https://dexscreener.com/arbitrum/0x9c99764ad164360cf85eda42fa2f4166b6cba2a4){: .btn .btn-purple }
 <br>
