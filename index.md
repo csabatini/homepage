@@ -4,9 +4,9 @@ layout: home
 ---
 
 <span class="fs-8">
-[RAM](https://dexscreener.com/arbitrum/0x4eec5b230e2f2f83dbac174b0bd6d406d13710b4){: .btn .btn-purple }
+[BIFI](https://dexscreener.com/sonic/0xfd8fc59e65860e7faaf09482e6be4af65741deba){: .btn .btn-purple }
 <br>
-[ALETH](https://dexscreener.com/arbitrum/0xfb4fe921f724f3c7b610a826c827f9f6ecef6886){: .btn .btn-purple }
+[X33](https://dexscreener.com/sonic/0xbb528a050a3b3b998a9651f893fa46162967a04c){: .btn .btn-purple }
 <br>
 [ALCX1](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
 <br>
