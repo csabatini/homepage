@@ -8,6 +8,8 @@ layout: home
 <br>
 [PHAR](https://dexscreener.com/avalanche/0xaaa3f202babcf7d6493afbc0caee03af9c64f984){: .btn .btn-purple }
 <br>
+[EMINI](https://dexscreener.com/avalanche/0x3526b00f6fa99ac2bd05bad2d54efed175129361){: .btn .btn-purple }
+<br>
 [X33](https://dexscreener.com/sonic/0xbb528a050a3b3b998a9651f893fa46162967a04c){: .btn .btn-purple }
 <br>
 [ALCX1](https://dexscreener.com/ethereum/0xc3f279090a47e80990fe3a9c30d24cb117ef91a8){: .btn .btn-purple }
