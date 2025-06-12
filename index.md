@@ -8,7 +8,7 @@ layout: home
 <br>
 [PHAR](https://dexscreener.com/avalanche/0xaaa3f202babcf7d6493afbc0caee03af9c64f984){: .btn .btn-purple }
 <br>
-[EMINI](https://dexscreener.com/avalanche/0x3526b00f6fa99ac2bd05bad2d54efed175129361){: .btn .btn-purple }
+[GB](https://dexscreener.com/avalanche/0x7ec396ecbe2186bc7d624527c776a66c55aa86d6){: .btn .btn-purple }
 <br>
 [X33](https://dexscreener.com/sonic/0xbb528a050a3b3b998a9651f893fa46162967a04c){: .btn .btn-purple }
 <br>
