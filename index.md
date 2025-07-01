@@ -8,7 +8,7 @@ layout: home
 <br>
 [PHAR](https://dexscreener.com/avalanche/0xaaa3f202babcf7d6493afbc0caee03af9c64f984){: .btn .btn-purple }
 <br>
-[GB](https://dexscreener.com/avalanche/0x7ec396ecbe2186bc7d624527c776a66c55aa86d6){: .btn .btn-purple }
+[GRAIL](https://dexscreener.com/arbitrum/0x8cc8093218bcac8b1896a1eed4d925f6f6ab289f){: .btn .btn-purple }
 <br>
 [X33](https://dexscreener.com/sonic/0xbb528a050a3b3b998a9651f893fa46162967a04c){: .btn .btn-purple }
 <br>
