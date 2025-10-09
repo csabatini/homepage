@@ -6,9 +6,9 @@ layout: home
 <span class="fs-8">
 [BIFI](https://dexscreener.com/sonic/0xfd8fc59e65860e7faaf09482e6be4af65741deba){: .btn .btn-purple }
 <br>
-[PHAR](https://dexscreener.com/avalanche/0xaaa3f202babcf7d6493afbc0caee03af9c64f984){: .btn .btn-purple }
+[P33](https://dexscreener.com/avalanche/0xabfc76e5126941ab22858906b9d65e4b09fb3d1a){: .btn .btn-purple }
 <br>
-[GRAIL](https://dexscreener.com/arbitrum/0x8cc8093218bcac8b1896a1eed4d925f6f6ab289f){: .btn .btn-purple }
+[ASTER](https://dexscreener.com/bsc/0x7e58f160b5b77b8b24cd9900c09a3e730215ac47){: .btn .btn-purple }
 <br>
 [X33](https://dexscreener.com/sonic/0xbb528a050a3b3b998a9651f893fa46162967a04c){: .btn .btn-purple }
 <br>
